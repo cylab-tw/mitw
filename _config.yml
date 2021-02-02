@@ -6,5 +6,5 @@ relative_links:
 include:
   - index.md
   - recruit2021.md
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
 markdown: kramdown 
