@@ -7,6 +7,7 @@
 * Track#4 影像與AI結果互通
 * Track#5 病理影像
 * Track#6 Genomic
+* Track#7 影像檢查流程(Scheduled Workflow)
 
 ## MI-TW Connectathon 2020 聯測結果
 * 19家廠商單位、42個系統共同參與，經本次聯測共計16個系統通過，符合國際HL7 FHIR及DICOMWeb標準，頒發通過證書。
