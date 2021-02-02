@@ -1,9 +1,8 @@
 <img src="https://mitw.dicom.org.tw/img/logo.png" align="left" width=175 />
 <h1>MI-TW (Medical Informatics) Connectathon </h1>
 
-<div align="left">
-<text>MI-TW ((Medical Informatics) 2021 聯測基於國際醫學資訊標準，例如: HL7 FHIR、DICOM、ISO/IEEE 11073等，採用規範標準化資訊互通介面，進行跨系統資訊互通聯測松(Connectathon)。發展及推行支援標準化之系統，以利於系之整合應用，以及系統複製、擴散、商品化應用。<text>
-</div>
+MI-TW ((Medical Informatics) 2021 聯測基於國際醫學資訊標準，例如: HL7 FHIR、DICOM、ISO/IEEE 11073等，採用規範標準化資訊互通介面，進行跨系統資訊互通聯測松(Connectathon)。發展及推行支援標準化之系統，以利於系之整合應用，以及系統複製、擴散、商品化應用。
+  
 ## 活動詳情: https://mitw.dicom.org.tw/
 
 # 徵求聯測主題 (Call for Porposal)
@@ -27,7 +26,7 @@
 
 ### 兩大要求: 「基本資料跨系統互通」以及「資安授權機制」
 * 三種使用情境(Scenarios)涵蓋個人健康管理系統(Personal Health Record, PHR)應用或院內系統 FHIR Patient Resources互通
-*  根據參加機構系統使用情境，需包含以下至少新增、刪除、修改、查詢四大功能
+* 根據參加機構系統使用情境，需包含以下至少新增、刪除、修改、查詢四大功能
 
 ### 互通要求 
 * 基本資料，包含: 身分證字號、中文姓名、住址和電話等資訊
