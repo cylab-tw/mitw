@@ -4,7 +4,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - index.md
+  - README.md
   - recruit2021.md
 theme: jekyll-theme-minimal
 markdown: kramdown
