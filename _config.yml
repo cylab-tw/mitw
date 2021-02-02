@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-relative-links
 relative_links:
