@@ -8,5 +8,5 @@ include:
   - recruit2021.md
 theme: jekyll-theme-minimal
 markdown: kramdown
-title: MI-TW ((Medical Informatics) 2021 
+title: 2021 台灣醫學資訊聯測(MI-TW) 
 logo: https://mitw.dicom.org.tw/img/logo.png
