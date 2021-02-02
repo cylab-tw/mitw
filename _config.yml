@@ -9,5 +9,4 @@ include:
 theme: jekyll-theme-minimal
 markdown: kramdown
 title: MI-TW ((Medical Informatics) 2021 
-description: MI-TW 聯測基於國際醫學資訊標準，例如: HL7 FHIR、DICOM、ISO/IEEE 11073等，採用規範標準化資訊互通介面，進行跨系統資訊互通聯測松(Connectathon)。發展及推行支援標準化之系統，以利於系之整合應用，以及系統複製、擴散、商品化應用。
 logo: https://mitw.dicom.org.tw/img/logo.png
