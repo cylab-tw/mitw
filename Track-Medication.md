@@ -13,7 +13,7 @@
 * ***MedicationAdministration Creator:** 用藥記錄建檔單位系統，可包含: 醫療照護機構、第三方健康照護應用、個人等。
 * ***MedicationAdministration Consumer:** 用藥記錄使用單位系統，可包含: 醫療照護機構、藥局、第三方健康照護應用、個人等。
 
-###　資安授權機制
+### 資安授權機制
 * 支援JWT機制
 * 支援權限控管機制
 
