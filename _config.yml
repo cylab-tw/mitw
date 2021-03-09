@@ -4,4 +4,8 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - index.md
+  - README.md
+  - recruit2021.md
+markdown: kramdown
+title: 2021 台灣醫學資訊聯測(MI-TW) 
+logo: https://mitw.dicom.org.tw/img/logo.png
