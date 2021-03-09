@@ -20,7 +20,7 @@
 ## 情境1 Create MedicationRequest (Source)
 * medicationReference
 * medicationCodeableConcept
-* update MedicationRequest
+* update MedicationRequest(optional)
 
 ## 情境2 Retrieve MedicationRequest (Consumer)
 * Get all MedicationRequest by patient id
