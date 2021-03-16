@@ -13,12 +13,6 @@
 * Genetics profile Creator
 * Genetics profile Consumer
 
-### 資安授權機制
-
-- 支援JWT機制
-- 支援權限管控機制
-
-
 
 ### Scenarios
 
