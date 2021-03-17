@@ -6,6 +6,10 @@
 * Support the receiving and processing of the MolecularSequence resource/genetics profiles
 * Operations: create, delete, search and update.
 
+### 資安授權機制
+  - 支援JWT機制
+  - 支援權限控管機制
+
 ### Role
 
 * MolecularSequence Creator
